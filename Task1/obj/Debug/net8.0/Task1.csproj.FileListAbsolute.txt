@@ -1,0 +1,14 @@
+D:\education\Семинар\Tasks\Task1\bin\Debug\net8.0\Task1.exe
+D:\education\Семинар\Tasks\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\education\Семинар\Tasks\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\education\Семинар\Tasks\Task1\bin\Debug\net8.0\Task1.dll
+D:\education\Семинар\Tasks\Task1\bin\Debug\net8.0\Task1.pdb
+D:\education\Семинар\Tasks\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\Семинар\Tasks\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\education\Семинар\Tasks\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\education\Семинар\Tasks\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\education\Семинар\Tasks\Task1\obj\Debug\net8.0\Task1.dll
+D:\education\Семинар\Tasks\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\education\Семинар\Tasks\Task1\obj\Debug\net8.0\Task1.pdb
+D:\education\Семинар\Tasks\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\education\Семинар\Tasks\Task1\obj\Debug\net8.0\ref\Task1.dll
